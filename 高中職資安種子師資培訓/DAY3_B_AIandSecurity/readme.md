@@ -58,7 +58,7 @@ import pylab as pl
 
 # 產生資料
 x = np.arange(0.0, 2.0*np.pi, 0.01)	
-y = np.sin(t)			
+y = np.sin(x)			
 
 #畫圖
 
